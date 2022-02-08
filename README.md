@@ -1,4 +1,4 @@
-# Yazım Denetimi
+# Türkçe Yazım Denetimi
 
 Uygulamalarda kullanılan yazım denetimi için Türkçe kelimeler.
 
