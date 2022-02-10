@@ -1,3 +1,9 @@
 dic
 dic/
 .gitignore
+*.tmp
+*.aff
+*.dic
+word
+word2
+tr_TR.aff
