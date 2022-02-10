@@ -195,8 +195,8 @@ END {
     }
 }
 ' | sort >>$1.dic
-    sort -k2n -k3r $1.temp > $1.aff
-    rm $1.temp
+    #sort -k2n -k3n $1.temp > $1.aff
+    mv $1.temp  $1.aff
     rm *.tmp
     rm word*
     sed -i "1r baslik" $1.aff
